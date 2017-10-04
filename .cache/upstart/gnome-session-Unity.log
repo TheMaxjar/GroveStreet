@@ -1855,3 +1855,46 @@ WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isCo
 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
 pbs<@resource://unity/observer.js:38:71
 observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+onStateChange@chrome://browser/content/browser.js:5164:9
+callListeners@chrome://browser/content/tabbrowser.xml:492:24
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:513:13
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:595:22
+onStateChange@chrome://browser/content/tabbrowser.xml:784:15
+s_9d@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:136:49
+s_ne@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:139:265
+@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:1012:247
+s_Dba@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:74:397
+s_Bba@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:75:415
+s_zba/b<@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:72:219
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
