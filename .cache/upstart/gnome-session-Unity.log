@@ -1,0 +1,1857 @@
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+@chrome://browser/content/content.js:37:5
+addTab@chrome://browser/content/tabbrowser.xml:1642:13
+loadOneTab@chrome://browser/content/tabbrowser.xml:1378:23
+openLinkIn@chrome://browser/content/utilityOverlay.js:331:14
+openUILinkIn@chrome://browser/content/utilityOverlay.js:200:3
+BrowserOpenTab@chrome://browser/content/browser.js:11162:3
+BrowserOpenNewTabOrWindow@chrome://browser/content/browser.js:16565:5
+oncommand@chrome://browser/content/browser.xul:1:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+get_contentWindow@chrome://global/content/bindings/browser.xml:412:54
+get_securityUI@chrome://global/content/bindings/browser.xml:662:17
+browser_XBL_Constructor@chrome://global/content/bindings/browser.xml:786:17
+HiddenBrowser.prototype._createBrowser/<@resource://app/modules/BrowserNewTabPreloader.jsm:301:7
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:865:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:744:7
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:13593:9
+_callProgressListeners/<@chrome://browser/content/tabbrowser.xml:539:24
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:536:13
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:583:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:737:1
+s_9d@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:136:49
+s_ne@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:139:265
+@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:1012:247
+s_Dba@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:74:397
+s_Bba@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:75:415
+s_zba/b<@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:72:219
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+Gr@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:141812
+rt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:169369
+jt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:168389
+gt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:167847
+ft/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:164460
+z@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:6768
+ft@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:164437
+Cs.prototype.Ba@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:164342
+O/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:53076
+Ns/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:159926
+@https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=3612796453688412&output=json_html&callback=googletag.impl.pubads.callbackProxy1&impl=fifs&json_a=1&eid=21060971%2C108809107%2C21060364&sc=1&sfv=1-0-13&iu_parts=248424177%2Caskubuntu.com%2Clb%2Cquestion-pages%2Csb&enc_prev_ius=%2F0%2F1%2F2%2F3%2C%2F0%2F1%2F4%2F3&prev_iu_szs=728x90%2C300x250%7C300x600&cust_params=Registered%3Dfalse%26ron-tag%3Dupdates%252Cfirefox%252Cfilesystem%26Community%3Dtrue&cookie=ID%3D42ce2da6dfc86b8e%3AT%3D1507110760%3AS%3DALNI_Mb-6ONcanwO9a4HYDgBnuDZFmZYyA&abxe=1&lmt=1507115652&dt=1507115652641&frm=20&biw=1522&bih=772&oid=3&adxs=231%2C991&adys=427%2C696&adks=412323475%2C1174953567&gut=v2&ifi=1&u_tz=120&u_his=2&u_h=900&u_w=1600&u_ah=876&u_aw=1535&u_cd=24&u_nplug=5&u_nmime=44&u_sd=1&flash=0&url=https%3A%2F%2Faskubuntu.com%2Fquestions%2F681312%2Fhow-to-update-firefox-on-ubuntu&ref=https%3A%2F%2Fwww.google.pl%2Furl%3Fsa%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dweb%26cd%3D1%26ved%3D0ahUKEwjWupen69bWAhWGFJoKHSO-DFgQFggyMAA%26url%3Dhttps%253A%252F%252Faskubuntu.com%252Fquestions%252F681312%252Fhow-to-update-firefox-on-ubuntu%26usg%3DAOvVaw017ml1K5rJOUx7VfLgL7zb&dssz=26&icsg=130&std=14&vrg=153&vis=1&ga_vid=410825727.1507110760&ga_sid=1507115653&ga_hid=1098329174:1:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+Gr@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:141812
+rt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:169369
+jt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:168389
+gt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:167847
+ft/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:164460
+z@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:6768
+ft@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:164437
+Cs.prototype.Ba@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:164342
+O/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:53076
+Ns/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:159926
+@https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=3612796453688412&output=json_html&callback=googletag.impl.pubads.callbackProxy1&impl=fifs&json_a=1&eid=21060971%2C108809107%2C21060364&sc=1&sfv=1-0-13&iu_parts=248424177%2Caskubuntu.com%2Clb%2Cquestion-pages%2Csb&enc_prev_ius=%2F0%2F1%2F2%2F3%2C%2F0%2F1%2F4%2F3&prev_iu_szs=728x90%2C300x250%7C300x600&cust_params=Registered%3Dfalse%26ron-tag%3Dupdates%252Cfirefox%252Cfilesystem%26Community%3Dtrue&cookie=ID%3D42ce2da6dfc86b8e%3AT%3D1507110760%3AS%3DALNI_Mb-6ONcanwO9a4HYDgBnuDZFmZYyA&abxe=1&lmt=1507115652&dt=1507115652641&frm=20&biw=1522&bih=772&oid=3&adxs=231%2C991&adys=427%2C696&adks=412323475%2C1174953567&gut=v2&ifi=1&u_tz=120&u_his=2&u_h=900&u_w=1600&u_ah=876&u_aw=1535&u_cd=24&u_nplug=5&u_nmime=44&u_sd=1&flash=0&url=https%3A%2F%2Faskubuntu.com%2Fquestions%2F681312%2Fhow-to-update-firefox-on-ubuntu&ref=https%3A%2F%2Fwww.google.pl%2Furl%3Fsa%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dweb%26cd%3D1%26ved%3D0ahUKEwjWupen69bWAhWGFJoKHSO-DFgQFggyMAA%26url%3Dhttps%253A%252F%252Faskubuntu.com%252Fquestions%252F681312%252Fhow-to-update-firefox-on-ubuntu%26usg%3DAOvVaw017ml1K5rJOUx7VfLgL7zb&dssz=26&icsg=130&std=14&vrg=153&vis=1&ga_vid=410825727.1507110760&ga_sid=1507115653&ga_hid=1098329174:1:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+@chrome://browser/content/content.js:37:5
+addTab@chrome://browser/content/tabbrowser.xml:1642:13
+loadOneTab@chrome://browser/content/tabbrowser.xml:1378:23
+openLinkIn@chrome://browser/content/utilityOverlay.js:331:14
+openUILinkIn@chrome://browser/content/utilityOverlay.js:200:3
+BrowserOpenTab@chrome://browser/content/browser.js:11162:3
+BrowserOpenNewTabOrWindow@chrome://browser/content/browser.js:16565:5
+oncommand@chrome://browser/content/browser.xul:1:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+get_contentWindow@chrome://global/content/bindings/browser.xml:412:54
+get_securityUI@chrome://global/content/bindings/browser.xml:662:17
+browser_XBL_Constructor@chrome://global/content/bindings/browser.xml:786:17
+HiddenBrowser.prototype._createBrowser/<@resource://app/modules/BrowserNewTabPreloader.jsm:301:7
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:865:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:744:7
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+Jm@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:66659
+Cr@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:141109
+Qt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:177800
+Pt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:176974
+h.Ea@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:175591
+O/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:53076
+@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:184973
+O/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:53076
+@https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=4179872763305152&output=json_html&callback=googletag.impl.pubads.setAdContentsBySlotForSync&impl=s&eid=108809103%2C108809155%2C21060002&sc=0&sfv=1-0-13&iu=%2F5379284%2Fbesty_responsive_sg_gora&sz=970x250&cookie_enabled=1&abxe=1&lmt=1507115700&dt=1507115700778&frm=20&biw=1535&bih=772&oid=3&adx=368&ady=188&adk=77442722&gut=v2&ifi=1&u_tz=120&u_his=1&u_h=900&u_w=1600&u_ah=876&u_aw=1535&u_cd=24&u_nplug=5&u_nmime=44&u_sd=1&flash=0&url=http%3A%2F%2Fbesty.pl%2F&dssz=25&icsg=160&std=5&csl=78&vrg=153&vis=1&ga_vid=178073243.1507115701&ga_sid=1507115701&ga_hid=628121627&ga_fc=true:1:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+Jm@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:66659
+Cr@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:141109
+Qt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:177800
+Pt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:176974
+h.Ea@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:175591
+O/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:53076
+@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:184973
+O/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:53076
+@https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=4179872763305152&output=json_html&callback=googletag.impl.pubads.setAdContentsBySlotForSync&impl=s&eid=21060931%2C108809103%2C108809155%2C21060002&sc=0&sfv=1-0-13&iu=%2F5379284%2Fbesty_responsive_sg_prawy&sz=160x600&cookie=ID%3D4bddef75913fae5c%3AT%3D1507115700%3AS%3DALNI_MYUu7QWj-uKQXBJz6ZRGWvAJKi5gg&cookie_enabled=1&abxe=1&lmt=1507115700&dt=1507115701102&frm=20&biw=1522&bih=772&oid=3&adx=1186&ady=531&adk=1728238930&gut=v2&ifi=2&u_tz=120&u_his=1&u_h=900&u_w=1600&u_ah=876&u_aw=1535&u_cd=24&u_nplug=5&u_nmime=44&u_sd=1&flash=0&url=http%3A%2F%2Fbesty.pl%2F&dssz=28&icsg=2147484290&std=5&csl=79&vrg=153&vis=1&ga_vid=178073243.1507115701&ga_sid=1507115701&ga_hid=628121627&ga_fc=true:1:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+@http://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html:10:15
+@http://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html:9:2406
+@http://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html:9:2
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ya@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:105:2925
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:95:3030
+w@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:95:919
+ta@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:105:2726
+a/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:105:3942
+a/i/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:97:916
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+i@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:97:879
+v@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:159:1398
+a/</<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:159:1773
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+a/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:159:1511
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ya@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:105:3039
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:95:3030
+w@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:95:919
+ta@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:105:2726
+a/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:105:3942
+a/i/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:97:916
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+i@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:97:879
+v@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:159:1398
+a/</<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:159:1773
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+a/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:159:1511
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+Jm@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:66659
+Cr@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:141109
+Qt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:177800
+Pt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:176974
+h.Ea@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:175591
+O/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:53076
+@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:184973
+O/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:53076
+@https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=4179872763305152&output=json_html&callback=googletag.impl.pubads.setAdContentsBySlotForSync&impl=s&eid=21060931%2C108809103%2C108809155%2C21060002&sc=0&sfv=1-0-13&iu=%2F5379284%2Fbesty_responsive_sg_lewy&sz=160x600&cookie=ID%3D4bddef75913fae5c%3AT%3D1507115700%3AS%3DALNI_MYUu7QWj-uKQXBJz6ZRGWvAJKi5gg&cookie_enabled=1&abxe=1&lmt=1507115700&dt=1507115701352&frm=20&biw=1522&bih=772&oid=3&adx=176&ady=531&adk=3618120167&gut=v2&ifi=3&u_tz=120&u_his=1&u_h=900&u_w=1600&u_ah=876&u_aw=1535&u_cd=24&u_nplug=5&u_nmime=44&u_sd=1&flash=0&url=http%3A%2F%2Fbesty.pl%2F&dssz=30&icsg=8589937162&std=5&csl=78&vrg=153&vis=1&ga_vid=178073243.1507115701&ga_sid=1507115701&ga_hid=628121627&ga_fc=true:1:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+Jm@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:66659
+Cr@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:141109
+Qt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:177800
+Pt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:176974
+h.Ea@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:175591
+O/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:53076
+@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:184973
+O/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:53076
+@https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=4179872763305152&output=json_html&callback=googletag.impl.pubads.setAdContentsBySlotForSync&impl=s&eid=21060931%2C108809103%2C108809155%2C21060002&sc=0&sfv=1-0-13&iu=%2F5379284%2Fbesty_responsive_sg_srodek_2&sz=750x300%7C750x200%7C728x90&cookie=ID%3D4bddef75913fae5c%3AT%3D1507115700%3AS%3DALNI_MYUu7QWj-uKQXBJz6ZRGWvAJKi5gg&cookie_enabled=1&abxe=1&lmt=1507115700&dt=1507115702115&frm=20&biw=1522&bih=772&oid=3&adx=361&ady=6193&adk=3255993398&gut=v2&ifi=5&u_tz=120&u_his=1&u_h=900&u_w=1600&u_ah=876&u_aw=1535&u_cd=24&u_nplug=5&u_nmime=44&u_sd=1&flash=0&url=http%3A%2F%2Fbesty.pl%2F&dssz=41&icsg=549755978410&std=5&csl=82&vrg=153&vis=1&ga_vid=178073243.1507115701&ga_sid=1507115701&ga_hid=628121627&ga_fc=true:1:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+Jm@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:66659
+Cr@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:141109
+Qt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:177800
+Pt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:176974
+h.Ea@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:175591
+O/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:53076
+@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:184973
+O/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:53076
+@https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=4179872763305152&output=json_html&callback=googletag.impl.pubads.setAdContentsBySlotForSync&impl=s&eid=21060931%2C21060384%2C108809103%2C108809155%2C21060002&sc=0&sfv=1-0-13&iu=%2F5379284%2Fbesty_responsive_sg_dol&sz=750x300%7C750x200%7C728x90&cookie=ID%3D4bddef75913fae5c%3AT%3D1507115700%3AS%3DALNI_MYUu7QWj-uKQXBJz6ZRGWvAJKi5gg&cookie_enabled=1&abxe=1&lmt=1507115700&dt=1507115702354&frm=20&biw=1522&bih=772&oid=3&adx=361&ady=9824&adk=2431258127&gut=v2&ifi=6&u_tz=120&u_his=1&u_h=900&u_w=1600&u_ah=876&u_aw=1535&u_cd=24&u_nplug=5&u_nmime=44&u_sd=1&flash=0&url=http%3A%2F%2Fbesty.pl%2F&dssz=44&icsg=8796095646378&std=5&csl=77&vrg=153&vis=1&ga_vid=178073243.1507115701&ga_sid=1507115701&ga_hid=628121627&ga_fc=true:1:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ha@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:163:5492
+ka@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2146
+a/x/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2161
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:1599
+y@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2636
+k@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:74:206
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ha@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:163:5492
+ka@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2146
+a/x/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2161
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:1599
+y@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2636
+k@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:74:206
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ha@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:163:5492
+ka@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2146
+a/x/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2161
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:1599
+y@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2636
+k@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:74:206
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ha@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:163:5492
+ka@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2146
+a/x/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2161
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:1599
+y@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2636
+k@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:74:206
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ha@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:163:5492
+ka@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2146
+a/x/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2161
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:1599
+y@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2636
+k@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:74:206
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ha@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:163:5492
+ka@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2146
+a/x/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2161
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:1599
+y@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2636
+k@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:74:206
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ha@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:163:5492
+ka@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2146
+a/x/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2161
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:1599
+y@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2636
+k@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:74:206
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ha@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:163:5492
+ka@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2146
+a/x/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2161
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:1599
+y@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2636
+k@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:74:206
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ha@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:163:5492
+ka@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2146
+a/x/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2161
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:1599
+y@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2636
+k@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:74:206
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ha@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:163:5492
+ka@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2146
+a/x/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2161
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:1599
+y@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2636
+k@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:74:206
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ha@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:163:5492
+ka@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2146
+a/x/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2161
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:1599
+y@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2636
+k@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:74:206
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+eb@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:5792
+ig@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:59803
+jg@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:57854
+qg/<@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:62131
+Oc@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:15510
+Xc@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:18035
+qg@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:62110
+rg@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:61642
+wg@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:64874
+xg@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:65150
+Ag@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:65802
+Bg/<@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:65394
+Oc@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:15510
+Xc@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:18035
+Bg@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:65373
+Cg@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:67392
+Oc@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:15355
+Xc@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:18035
+Dg@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:67102
+@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:67640
+@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:2
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+d@https://wideo.sataku.com.pl/sataku/loader/v100/loader.min.js:1:12591
+e.Creation/<@https://wideo.sataku.com.pl/sataku/loader/v100/loader.min.js:1:16255
+e.Creation@https://wideo.sataku.com.pl/sataku/loader/v100/loader.min.js:1:16244
+n.createOne/<.onSuccess@https://wideo.sataku.com.pl/sataku/loader/v100/loader.min.js:1:21517
+t/window[i]@https://wideo.sataku.com.pl/sataku/loader/v100/loader.min.js:1:16572
+@https://www3.smartadserver.com/call/pubdirj/572396/7206941/besty.pl.besty.pl.sarigato_pub/1x1/1004355227/no?%5Bcountgo%5D?:2:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+fh@http://pagead2.googlesyndication.com/pagead/osd.js:126:117
+h.getNewBlocks@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:106614
+ce.prototype.getNewBlocks@http://pagead2.googlesyndication.com/pagead/osd.js:50:991
+dh@http://pagead2.googlesyndication.com/pagead/osd.js:127:166
+bh@http://pagead2.googlesyndication.com/pagead/osd.js:124:859
+O/</<@http://pagead2.googlesyndication.com/pagead/osd.js:36:649
+pd@http://pagead2.googlesyndication.com/pagead/osd.js:36:363
+O/<@http://pagead2.googlesyndication.com/pagead/osd.js:36:624
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+Qe.prototype.Rb@https://pagead2.googlesyndication.com/pagead/js/lidar.js:56:280
+Wg.prototype.Rb@https://pagead2.googlesyndication.com/pagead/js/lidar.js:123:174
+$g@https://pagead2.googlesyndication.com/pagead/js/lidar.js:123:427
+Gh/<@https://pagead2.googlesyndication.com/pagead/js/lidar.js:136:17
+A<@https://pagead2.googlesyndication.com/pagead/js/lidar.js:12:452
+Gh@https://pagead2.googlesyndication.com/pagead/js/lidar.js:135:1
+xh.prototype.ed@https://pagead2.googlesyndication.com/pagead/js/lidar.js:134:155
+xh.prototype.kf@https://pagead2.googlesyndication.com/pagead/js/lidar.js:132:131
+@https://pagead2.googlesyndication.com/pagead/js/lidar.js:147:477
+$d@https://pagead2.googlesyndication.com/pagead/js/lidar.js:40:386
+ge@https://pagead2.googlesyndication.com/pagead/js/lidar.js:45:29
+@https://pagead2.googlesyndication.com/pagead/js/lidar.js:147:375
+@https://pagead2.googlesyndication.com/pagead/js/lidar.js:1:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+1507115768848	addons.xpi	WARN	Exception running bootstrap method shutdown on webapps-team@lists.launchpad.net: ReferenceError: sss is not defined (resource://gre/modules/addons/XPIProvider.jsm -> file:///usr/share/mozilla/extensions/%7Bec8030f7-c20a-464f-9b0e-13a3a9e97384%7D/webapps-team@lists.launchpad.net/bootstrap.js:72:4) JS Stack trace: shutdown@resource://gre/modules/addons/XPIProvider.jsm -> file:///usr/share/mozilla/extensions/%7Bec8030f7-c20a-464f-9b0e-13a3a9e97384%7D/webapps-team@bootstrap.js:72:5 < XPI_callBootstrapMethod@XPIProvider.jsm:4436:9 < shutdownObserver@XPIProvider.jsm:2183:13
+1507115775262	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1507115775594	addons.xpi	WARN	Add-on webapps-team@lists.launchpad.net is missing bootstrap method uninstall
+1507115775598	addons.xpi	WARN	Add-on webapps-team@lists.launchpad.net is missing bootstrap method install
+
+(firefox:9265): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9265): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9265): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9265): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+@chrome://followonsearch/content/followonsearch-fs.js?q=0.5732127442873161:274:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+Webaccounts extension loaded
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+@chrome://followonsearch/content/followonsearch-fs.js?q=0.5732127442873161:274:1
+createBrowserElement@resource://gre/modules/ExtensionParent.jsm:902:5
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+@chrome://followonsearch/content/followonsearch-fs.js?q=0.5732127442873161:274:1
+_insertBrowser@chrome://browser/content/tabbrowser.xml:2368:15
+addTab@chrome://browser/content/tabbrowser.xml:2619:15
+ssi_restoreWindow@resource:///modules/sessionstore/SessionStore.jsm:3335:15
+ssi_restoreLastSession@resource:///modules/sessionstore/SessionStore.jsm:2755:9
+ss_restoreLastSession@resource:///modules/sessionstore/SessionStore.jsm:356:5
+restoreLastSession@chrome://browser/content/browser.js:8296:3
+oncommand@chrome://browser/content/browser.xul:1:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+@chrome://followonsearch/content/followonsearch-fs.js?q=0.5732127442873161:274:1
+_createPreloadBrowser@chrome://browser/content/tabbrowser.xml:2070:13
+_handleNewTab@chrome://browser/content/tabbrowser.xml:6816:11
+addTab/<@chrome://browser/content/tabbrowser.xml:2535:17
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ya@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:105:2925
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:95:3030
+w@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:95:919
+ta@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:105:2726
+a/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:105:3942
+i/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:97:916
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+i@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:97:879
+v@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:159:1398
+a/</<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:159:1773
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+a/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:159:1511
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ya@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:105:3039
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:95:3030
+w@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:95:919
+ta@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:105:2726
+a/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:105:3942
+i/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:97:916
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+i@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:97:879
+v@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:159:1398
+a/</<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:159:1773
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+a/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:159:1511
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+Jm@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:66659
+Cr@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:141109
+Qt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:177800
+Pt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:176974
+h.Ea@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:175591
+O/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:53076
+@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:184973
+O/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:53076
+@https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=344646258787895&output=json_html&callback=googletag.impl.pubads.setAdContentsBySlotForSync&impl=s&eid=21060596%2C108809132%2C108809103%2C108809155%2C108809159%2C21060003%2C21060553&sc=0&sfv=1-0-13&iu=%2F5379284%2Fbesty_responsive_sg_gora&sz=970x250&cookie_enabled=1&abxe=1&lmt=1507115785&dt=1507115785690&frm=20&biw=1151&bih=556&oid=3&adx=88&ady=188&adk=77442722&gut=v2&ifi=1&u_tz=120&u_his=1&u_h=900&u_w=1600&u_ah=876&u_aw=1535&u_cd=24&u_sd=1&flash=0&url=http%3A%2F%2Fbesty.pl%2F&dssz=25&icsg=160&std=5&csl=78&vrg=153&vis=1&ga_vid=826464134.1507115786&ga_sid=1507115786&ga_hid=550152946&ga_fc=true:1:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+Jm@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:66659
+Cr@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:141109
+Qt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:177800
+Pt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:176974
+h.Ea@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:175591
+O/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:53076
+@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:184973
+O/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:53076
+@https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=344646258787895&output=json_html&callback=googletag.impl.pubads.setAdContentsBySlotForSync&impl=s&eid=21060596%2C108809132%2C108809103%2C108809155%2C108809159%2C21060003%2C21060553&sc=0&sfv=1-0-13&iu=%2F5379284%2Fbesty_responsive_sg_prawy&sz=160x600&cookie=ID%3D6bfc2476a8406cba%3AT%3D1507115785%3AS%3DALNI_MbUvbUv4QZkTqY_GOP4UKjuPp3wiA&cookie_enabled=1&abxe=1&lmt=1507115785&dt=1507115785947&frm=20&biw=1137&bih=556&oid=3&adx=906&ady=531&adk=1728238930&gut=v2&ifi=2&u_tz=120&u_his=1&u_h=900&u_w=1600&u_ah=876&u_aw=1535&u_cd=24&u_sd=1&flash=0&url=http%3A%2F%2Fbesty.pl%2F&dssz=28&icsg=2147484290&std=5&csl=79&vrg=153&vis=1&ga_vid=826464134.1507115786&ga_sid=1507115786&ga_hid=550152946&ga_fc=true:1:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+Jm@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:66659
+Cr@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:141109
+Qt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:177800
+Pt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:176974
+h.Ea@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:175591
+O/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:53076
+@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:184973
+O/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:53076
+@https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=344646258787895&output=json_html&callback=googletag.impl.pubads.setAdContentsBySlotForSync&impl=s&eid=21060596%2C108809132%2C108809103%2C108809155%2C108809159%2C21060003%2C21060553&sc=0&sfv=1-0-13&iu=%2F5379284%2Fbesty_responsive_sg_srodek_2&sz=750x300%7C750x200%7C728x90&cookie=ID%3D6bfc2476a8406cba%3AT%3D1507115785%3AS%3DALNI_MbUvbUv4QZkTqY_GOP4UKjuPp3wiA&cookie_enabled=1&abxe=1&lmt=1507115786&dt=1507115786634&frm=20&biw=1521&bih=803&oid=3&adx=361&ady=6193&adk=3255993398&gut=v2&ifi=4&u_tz=120&u_his=1&u_h=900&u_w=1600&u_ah=876&u_aw=1535&u_cd=24&u_sd=1&flash=0&url=http%3A%2F%2Fbesty.pl%2F&dssz=40&icsg=137438994602&std=5&csl=82&vrg=153&vis=1&ga_vid=826464134.1507115786&ga_sid=1507115786&ga_hid=550152946&ga_fc=true:1:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+d@https://wideo.sataku.com.pl/sataku/loader/v100/loader.min.js:1:12591
+e.Creation/<@https://wideo.sataku.com.pl/sataku/loader/v100/loader.min.js:1:16255
+e.Creation@https://wideo.sataku.com.pl/sataku/loader/v100/loader.min.js:1:16244
+onSuccess@https://wideo.sataku.com.pl/sataku/loader/v100/loader.min.js:1:21517
+t/window[i]@https://wideo.sataku.com.pl/sataku/loader/v100/loader.min.js:1:16572
+@https://www3.smartadserver.com/call/pubdirj/572396/7206941/besty.pl.besty.pl.sarigato_pub/1x1/1037981704/no?[countgo]?:2:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+Jm@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:66659
+Cr@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:141109
+Qt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:177800
+Pt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:176974
+h.Ea@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:175591
+O/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:53076
+@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:184973
+O/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:53076
+@https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=344646258787895&output=json_html&callback=googletag.impl.pubads.setAdContentsBySlotForSync&impl=s&eid=21060596%2C108809132%2C108809103%2C108809155%2C108809159%2C21060003%2C21060553&sc=0&sfv=1-0-13&iu=%2F5379284%2Fbesty_responsive_sg_dol&sz=750x300%7C750x200%7C728x90&cookie=ID%3D6bfc2476a8406cba%3AT%3D1507115785%3AS%3DALNI_MbUvbUv4QZkTqY_GOP4UKjuPp3wiA&cookie_enabled=1&abxe=1&lmt=1507115786&dt=1507115786883&frm=20&biw=1521&bih=803&oid=3&adx=361&ady=9824&adk=2431258127&gut=v2&ifi=5&u_tz=120&u_his=1&u_h=900&u_w=1600&u_ah=876&u_aw=1535&u_cd=24&u_sd=1&flash=0&url=http%3A%2F%2Fbesty.pl%2F&dssz=43&icsg=2199023911594&std=5&csl=77&vrg=153&vis=1&ga_vid=826464134.1507115786&ga_sid=1507115786&ga_hid=550152946&ga_fc=true:1:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ha@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:163:5492
+ka@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2146
+x/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2161
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:1599
+y@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2636
+k@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:74:206
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ha@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:163:5492
+ka@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2146
+x/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2161
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:1599
+y@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2636
+k@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:74:206
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ha@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:163:5492
+ka@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2146
+x/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2161
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:1599
+y@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2636
+k@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:74:206
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ha@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:163:5492
+ka@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2146
+x/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2161
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:1599
+y@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2636
+k@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:74:206
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ha@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:163:5492
+ka@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2146
+x/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2161
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:1599
+y@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2636
+k@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:74:206
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ha@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:163:5492
+ka@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2146
+x/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2161
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:1599
+y@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2636
+k@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:74:206
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ha@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:163:5492
+ka@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2146
+x/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2161
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:1599
+y@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2636
+k@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:74:206
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ha@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:163:5492
+ka@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2146
+x/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2161
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:1599
+y@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2636
+k@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:74:206
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ha@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:163:5492
+ka@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2146
+x/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2161
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:1599
+y@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2636
+k@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:74:206
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ha@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:163:5492
+ka@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2146
+x/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2161
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:1599
+y@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2636
+k@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:74:206
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ha@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:163:5492
+ka@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2146
+x/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2161
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:1599
+y@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2636
+k@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:74:206
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+eb@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:5792
+ig@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:59803
+jg@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:57854
+qg/<@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:62131
+Oc@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:15510
+Xc@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:18035
+qg@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:62110
+rg@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:61642
+wg@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:64874
+xg@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:65150
+Ag@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:65802
+Bg/<@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:65394
+Oc@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:15510
+Xc@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:18035
+Bg@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:65373
+Cg@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:67392
+Oc@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:15355
+Xc@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:18035
+Dg@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:67102
+@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:67640
+@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:2
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+Sc@http://pagead2.googlesyndication.com/pagead/js/r20171002/r20170110/show_ads_impl.js:1:15762
+ls@http://pagead2.googlesyndication.com/pagead/js/r20171002/r20170110/show_ads_impl.js:1:133439
+Lv@http://pagead2.googlesyndication.com/pagead/js/r20171002/r20170110/show_ads_impl.js:1:174982
+Ov@http://pagead2.googlesyndication.com/pagead/js/r20171002/r20170110/show_ads_impl.js:1:177551
+b@http://pagead2.googlesyndication.com/pagead/js/r20171002/r20170110/show_ads_impl.js:1:192472
+Ew@http://pagead2.googlesyndication.com/pagead/js/r20171002/r20170110/show_ads_impl.js:1:192870
+yv@http://pagead2.googlesyndication.com/pagead/js/r20171002/r20170110/show_ads_impl.js:1:194271
+tv@http://pagead2.googlesyndication.com/pagead/js/r20171002/r20170110/show_ads_impl.js:1:172184
+mv@http://pagead2.googlesyndication.com/pagead/js/r20171002/r20170110/show_ads_impl.js:1:168240
+nv/<@http://pagead2.googlesyndication.com/pagead/js/r20171002/r20170110/show_ads_impl.js:1:167857
+Ti@http://pagead2.googlesyndication.com/pagead/js/r20171002/r20170110/show_ads_impl.js:1:45899
+aj@http://pagead2.googlesyndication.com/pagead/js/r20171002/r20170110/show_ads_impl.js:1:47839
+nv@http://pagead2.googlesyndication.com/pagead/js/r20171002/r20170110/show_ads_impl.js:1:167832
+@http://pagead2.googlesyndication.com/pagead/js/r20171002/r20170110/show_ads_impl.js:1:196868
+@http://pagead2.googlesyndication.com/pagead/js/r20171002/r20170110/show_ads_impl.js:1:2
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+getAllStyleSheets@chrome://browser/content/tab-content.js:483:21
+getAllStyleSheets/subSheets<@chrome://browser/content/tab-content.js:483:57
+getAllStyleSheets@chrome://browser/content/tab-content.js:483:21
+sendStyleSheetInfo@chrome://browser/content/tab-content.js:472:55
+init/<@chrome://browser/content/tab-content.js:464:40
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+@chrome://followonsearch/content/followonsearch-fs.js?q=0.5732127442873161:274:1
+_insertBrowser@chrome://browser/content/tabbrowser.xml:2368:15
+getRelatedElement@chrome://browser/content/tabbrowser.xml:6838:11
+set_selectedIndex@chrome://global/content/bindings/tabbox.xml:403:31
+set_selectedItem@chrome://global/content/bindings/tabbox.xml:441:34
+_selectNewTab@chrome://global/content/bindings/tabbox.xml:486:11
+onxblmousedown@chrome://global/content/bindings/tabbox.xml:820:11
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+@chrome://followonsearch/content/followonsearch-fs.js?q=0.5732127442873161:274:1
+_insertBrowser@chrome://browser/content/tabbrowser.xml:2368:15
+getRelatedElement@chrome://browser/content/tabbrowser.xml:6838:11
+set_selectedIndex@chrome://global/content/bindings/tabbox.xml:403:31
+set_selectedItem@chrome://global/content/bindings/tabbox.xml:441:34
+_selectNewTab@chrome://global/content/bindings/tabbox.xml:486:11
+onxblmousedown@chrome://global/content/bindings/tabbox.xml:820:11
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+Gr@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:141812
+rt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:169369
+jt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:168389
+gt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:167847
+ft/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:164460
+z@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:6768
+ft@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:164437
+Cs.prototype.Ba@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:164342
+O/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:53076
+Ns/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:159926
+@https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=302486565634993&output=json_html&callback=googletag.impl.pubads.callbackProxy1&impl=fifs&json_a=1&eid=108809103%2C108809153%2C21060132%2C21060821%2C21060873%2C21060891&sc=1&sfv=1-0-13&iu_parts=248424177%2Caskubuntu.com%2Clb%2Cquestion-pages%2Csb&enc_prev_ius=%2F0%2F1%2F2%2F3%2C%2F0%2F1%2F4%2F3&prev_iu_szs=728x90%2C300x250%7C300x600&cust_params=Registered%3Dfalse%26ron-tag%3Dupdates%252Cfirefox%252Cfilesystem%26Community%3Dtrue&cookie_enabled=1&abxe=1&lmt=1507115789&dt=1507115789242&frm=20&biw=1521&bih=803&oid=3&adxs=231%2C991&adys=427%2C696&adks=412323475%2C1174953567&gut=v2&ifi=1&u_tz=120&u_his=2&u_h=900&u_w=1600&u_ah=876&u_aw=1535&u_cd=24&u_sd=1&flash=0&url=https%3A%2F%2Faskubuntu.com%2Fquestions%2F681312%2Fhow-to-update-firefox-on-ubuntu&ref=https%3A%2F%2Fwww.google.pl%2Furl%3Fsa%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dweb%26cd%3D1%26ved%3D0ahUKEwjWupen69bWAhWGFJoKHSO-DFgQFggyMAA%26url%3Dhttps%253A%252F%252Faskubuntu.com%252Fquestions%252F681312%252Fhow-to-update-firefox-on-ubuntu%26usg%3DAOvVaw017ml1K5rJOUx7VfLgL7zb&dssz=24&icsg=130&std=14&vrg=153&vis=1&ga_vid=257777096.1507115789&ga_sid=1507115789&ga_hid=1734028175:1:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+Gr@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:141812
+rt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:169369
+jt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:168389
+gt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:167847
+ft/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:164460
+z@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:6768
+ft@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:164437
+Cs.prototype.Ba@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:164342
+O/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:53076
+Ns/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:159926
+@https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=302486565634993&output=json_html&callback=googletag.impl.pubads.callbackProxy1&impl=fifs&json_a=1&eid=108809103%2C108809153%2C21060132%2C21060821%2C21060873%2C21060891&sc=1&sfv=1-0-13&iu_parts=248424177%2Caskubuntu.com%2Clb%2Cquestion-pages%2Csb&enc_prev_ius=%2F0%2F1%2F2%2F3%2C%2F0%2F1%2F4%2F3&prev_iu_szs=728x90%2C300x250%7C300x600&cust_params=Registered%3Dfalse%26ron-tag%3Dupdates%252Cfirefox%252Cfilesystem%26Community%3Dtrue&cookie_enabled=1&abxe=1&lmt=1507115789&dt=1507115789242&frm=20&biw=1521&bih=803&oid=3&adxs=231%2C991&adys=427%2C696&adks=412323475%2C1174953567&gut=v2&ifi=1&u_tz=120&u_his=2&u_h=900&u_w=1600&u_ah=876&u_aw=1535&u_cd=24&u_sd=1&flash=0&url=https%3A%2F%2Faskubuntu.com%2Fquestions%2F681312%2Fhow-to-update-firefox-on-ubuntu&ref=https%3A%2F%2Fwww.google.pl%2Furl%3Fsa%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dweb%26cd%3D1%26ved%3D0ahUKEwjWupen69bWAhWGFJoKHSO-DFgQFggyMAA%26url%3Dhttps%253A%252F%252Faskubuntu.com%252Fquestions%252F681312%252Fhow-to-update-firefox-on-ubuntu%26usg%3DAOvVaw017ml1K5rJOUx7VfLgL7zb&dssz=24&icsg=130&std=14&vrg=153&vis=1&ga_vid=257777096.1507115789&ga_sid=1507115789&ga_hid=1734028175:1:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+@chrome://followonsearch/content/followonsearch-fs.js?q=0.5732127442873161:274:1
+_insertBrowser@chrome://browser/content/tabbrowser.xml:2368:15
+addTab@chrome://browser/content/tabbrowser.xml:2619:15
+loadOneTab@chrome://browser/content/tabbrowser.xml:1665:23
+_openURIInNewTab@chrome://browser/content/browser.js:5252:15
+openURI@chrome://browser/content/browser.js:5337:23
+value@https://assets-cdn.github.com/assets/github-47da5701cb3bc75d0588f91b0aa0407e3d3f8c7f1d628aa9a3c830544f15bf20.js:8:27497
+e/<@https://assets-cdn.github.com/assets/github-47da5701cb3bc75d0588f91b0aa0407e3d3f8c7f1d628aa9a3c830544f15bf20.js:8:27067
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+value@https://assets-cdn.github.com/assets/github-47da5701cb3bc75d0588f91b0aa0407e3d3f8c7f1d628aa9a3c830544f15bf20.js:8:27497
+e/<@https://assets-cdn.github.com/assets/github-47da5701cb3bc75d0588f91b0aa0407e3d3f8c7f1d628aa9a3c830544f15bf20.js:8:27067
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+@chrome://followonsearch/content/followonsearch-fs.js?q=0.5732127442873161:274:1
+_insertBrowser@chrome://browser/content/tabbrowser.xml:2368:15
+addTab@chrome://browser/content/tabbrowser.xml:2619:15
+loadOneTab@chrome://browser/content/tabbrowser.xml:1665:23
+_openURIInNewTab@chrome://browser/content/browser.js:5252:15
+openURI@chrome://browser/content/browser.js:5337:23
+value@https://assets-cdn.github.com/assets/github-47da5701cb3bc75d0588f91b0aa0407e3d3f8c7f1d628aa9a3c830544f15bf20.js:8:27497
+e/<@https://assets-cdn.github.com/assets/github-47da5701cb3bc75d0588f91b0aa0407e3d3f8c7f1d628aa9a3c830544f15bf20.js:8:27067
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+value@https://assets-cdn.github.com/assets/github-47da5701cb3bc75d0588f91b0aa0407e3d3f8c7f1d628aa9a3c830544f15bf20.js:8:27497
+e/<@https://assets-cdn.github.com/assets/github-47da5701cb3bc75d0588f91b0aa0407e3d3f8c7f1d628aa9a3c830544f15bf20.js:8:27067
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+Jm@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:66659
+Cr@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:141109
+Qt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:177800
+Pt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:176974
+h.Ea@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:175591
+O/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:53076
+@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:184973
+O/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:53076
+@https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=3140384718351087&output=json_html&callback=googletag.impl.pubads.setAdContentsBySlotForSync&impl=s&eid=108809107%2C21060168%2C21060301&sc=0&sfv=1-0-13&iu=%2F5379284%2Fbesty_responsive_sg_gora&sz=970x250&cookie=ID%3D6bfc2476a8406cba%3AT%3D1507115785%3AS%3DALNI_MbUvbUv4QZkTqY_GOP4UKjuPp3wiA&abxe=1&lmt=1507115945&dt=1507115945936&frm=20&biw=1535&bih=801&oid=3&adx=368&ady=187&adk=77442722&gut=v2&ifi=1&u_tz=120&u_his=2&u_h=900&u_w=1600&u_ah=876&u_aw=1535&u_cd=24&u_sd=1&flash=0&url=http%3A%2F%2Fbesty.pl%2Fpages%2F2&ref=http%3A%2F%2Fbesty.pl%2F&dssz=25&icsg=160&std=5&csl=78&vrg=153&rumc=6697407532246712&vis=1&ga_vid=826464134.1507115786&ga_sid=1507115786&ga_hid=2143691289&ga_fc=true:1:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ya@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:105:2925
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:95:3030
+w@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:95:919
+ta@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:105:2726
+a/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:105:3942
+i/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:97:916
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+i@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:97:879
+v@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:159:1398
+a/</<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:159:1773
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+a/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:159:1511
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ya@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:105:3039
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:95:3030
+w@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:95:919
+ta@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:105:2726
+a/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:105:3942
+i/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:97:916
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+i@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:97:879
+v@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:159:1398
+a/</<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:159:1773
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+a/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:159:1511
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+Jm@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:66659
+Cr@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:141109
+Qt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:177800
+Pt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:176974
+h.Ea@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:175591
+O/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:53076
+@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:184973
+O/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:53076
+@https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=3140384718351087&output=json_html&callback=googletag.impl.pubads.setAdContentsBySlotForSync&impl=s&eid=108809107%2C21060168%2C21060301&sc=0&sfv=1-0-13&iu=%2F5379284%2Fbesty_responsive_sg_prawy&sz=160x600&cookie=ID%3D6bfc2476a8406cba%3AT%3D1507115785%3AS%3DALNI_MbUvbUv4QZkTqY_GOP4UKjuPp3wiA&abxe=1&lmt=1507115946&dt=1507115946261&frm=20&biw=1521&bih=801&oid=3&adx=1186&ady=531&adk=1728238930&gut=v2&ifi=2&u_tz=120&u_his=2&u_h=900&u_w=1600&u_ah=876&u_aw=1535&u_cd=24&u_sd=1&flash=0&url=http%3A%2F%2Fbesty.pl%2Fpages%2F2&ref=http%3A%2F%2Fbesty.pl%2F&dssz=28&icsg=2147484290&std=5&csl=79&vrg=153&rumc=6697407532246712&vis=1&ga_vid=826464134.1507115786&ga_sid=1507115786&ga_hid=2143691289&ga_fc=true:1:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+E@https://s1.adform.net/stoat/601/s1.adform.net/bootstrap.js:30:150
+E@https://s1.adform.net/stoat/601/s1.adform.net/bootstrap.js:30:150
+f.getRotSeed@https://s1.adform.net/stoat/601/s1.adform.net/bootstrap.js:37:136
+f.getTagID@https://s1.adform.net/stoat/601/s1.adform.net/bootstrap.js:37:18
+f.createBanner@https://s1.adform.net/stoat/601/s1.adform.net/bootstrap.js:33:265
+d@https://s1.adform.net/stoat/601/s1.adform.net/bootstrap.js:65:127
+@https://s1.adform.net/stoat/601/s1.adform.net/bootstrap.js:65:241
+H/<@https://s1.adform.net/stoat/601/s1.adform.net/bootstrap.js:1:127
+A@https://s1.adform.net/stoat/601/s1.adform.net/bootstrap.js:1:412
+p@https://s1.adform.net/stoat/601/s1.adform.net/bootstrap.js:1:184
+H@https://s1.adform.net/stoat/601/s1.adform.net/bootstrap.js:1:107
+@https://s1.adform.net/stoat/601/s1.adform.net/bootstrap.js:65:1
+@https://s1.adform.net/stoat/601/s1.adform.net/bootstrap.js:6:2
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+Jm@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:66659
+Cr@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:141109
+Qt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:177800
+Pt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:176974
+h.Ea@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:175591
+O/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:53076
+@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:184973
+O/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:53076
+@https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=3140384718351087&output=json_html&callback=googletag.impl.pubads.setAdContentsBySlotForSync&impl=s&eid=108809107%2C21060168%2C21060301&sc=0&sfv=1-0-13&iu=%2F5379284%2Fbesty_responsive_sg_lewy&sz=160x600&cookie=ID%3D6bfc2476a8406cba%3AT%3D1507115785%3AS%3DALNI_MbUvbUv4QZkTqY_GOP4UKjuPp3wiA&abxe=1&lmt=1507115946&dt=1507115946538&frm=20&biw=1521&bih=801&oid=3&adx=176&ady=531&adk=3618120167&gut=v2&ifi=3&u_tz=120&u_his=2&u_h=900&u_w=1600&u_ah=876&u_aw=1535&u_cd=24&u_sd=1&flash=0&url=http%3A%2F%2Fbesty.pl%2Fpages%2F2&ref=http%3A%2F%2Fbesty.pl%2F&dssz=30&icsg=8589937162&std=5&csl=78&vrg=153&rumc=6697407532246712&vis=1&ga_vid=826464134.1507115786&ga_sid=1507115786&ga_hid=2143691289&ga_fc=true:1:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+Jm@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:66659
+Cr@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:141109
+Qt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:177800
+Pt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:176974
+h.Ea@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:175591
+O/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:53076
+@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:184973
+O/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:53076
+@https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=3140384718351087&output=json_html&callback=googletag.impl.pubads.setAdContentsBySlotForSync&impl=s&eid=108809107%2C21060168%2C21060301&sc=0&sfv=1-0-13&iu=%2F5379284%2Fbesty_responsive_sg_srodek_2&sz=750x300%7C750x200%7C728x90&cookie=ID%3D6bfc2476a8406cba%3AT%3D1507115785%3AS%3DALNI_MbUvbUv4QZkTqY_GOP4UKjuPp3wiA&abxe=1&lmt=1507115947&dt=1507115947071&frm=20&biw=1521&bih=801&oid=3&adx=361&ady=5636&adk=3255993398&gut=v2&ifi=5&u_tz=120&u_his=2&u_h=900&u_w=1600&u_ah=876&u_aw=1535&u_cd=24&u_sd=1&flash=0&url=http%3A%2F%2Fbesty.pl%2Fpages%2F2&ref=http%3A%2F%2Fbesty.pl%2F&dssz=41&icsg=549755978410&std=5&csl=82&vrg=153&rumc=6697407532246712&vis=1&ga_vid=826464134.1507115786&ga_sid=1507115786&ga_hid=2143691289&ga_fc=true:1:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+d@https://wideo.sataku.com.pl/sataku/loader/v100/loader.min.js:1:12591
+e.Creation/<@https://wideo.sataku.com.pl/sataku/loader/v100/loader.min.js:1:16255
+e.Creation@https://wideo.sataku.com.pl/sataku/loader/v100/loader.min.js:1:16244
+onSuccess@https://wideo.sataku.com.pl/sataku/loader/v100/loader.min.js:1:21517
+t/window[i]@https://wideo.sataku.com.pl/sataku/loader/v100/loader.min.js:1:16572
+@https://www3.smartadserver.com/call/pubdirj/572396/7206941/besty.pl.besty.pl.sarigato_pub/1x1/1084890036/no?[countgo]?:1:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+Jm@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:66659
+Cr@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:141109
+Qt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:177800
+Pt@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:176974
+h.Ea@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:175591
+O/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:53076
+@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:184973
+O/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:53076
+@https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=3140384718351087&output=json_html&callback=googletag.impl.pubads.setAdContentsBySlotForSync&impl=s&eid=108809107%2C21060168%2C21060301&sc=0&sfv=1-0-13&iu=%2F5379284%2Fbesty_responsive_sg_dol&sz=750x300%7C750x200%7C728x90&cookie=ID%3D6bfc2476a8406cba%3AT%3D1507115785%3AS%3DALNI_MbUvbUv4QZkTqY_GOP4UKjuPp3wiA&abxe=1&lmt=1507115947&dt=1507115947330&frm=20&biw=1521&bih=801&oid=3&adx=361&ady=8950&adk=2431258127&gut=v2&ifi=6&u_tz=120&u_his=2&u_h=900&u_w=1600&u_ah=876&u_aw=1535&u_cd=24&u_sd=1&flash=0&url=http%3A%2F%2Fbesty.pl%2Fpages%2F2&ref=http%3A%2F%2Fbesty.pl%2F&dssz=44&icsg=8796095646378&std=5&csl=77&vrg=153&rumc=6697407532246712&vis=1&ga_vid=826464134.1507115786&ga_sid=1507115786&ga_hid=2143691289&ga_fc=true:1:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ha@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:163:5492
+ka@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2146
+x/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2161
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:1599
+y@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2636
+k@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:74:206
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ha@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:163:5492
+ka@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2146
+x/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2161
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:1599
+y@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2636
+k@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:74:206
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ha@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:163:5492
+ka@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2146
+x/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2161
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:1599
+y@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2636
+k@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:74:206
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ha@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:163:5492
+ka@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2146
+x/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2161
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:1599
+y@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2636
+k@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:74:206
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ha@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:163:5492
+ka@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2146
+x/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2161
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:1599
+y@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2636
+k@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:74:206
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ha@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:163:5492
+ka@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2146
+x/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2161
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:1599
+y@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2636
+k@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:74:206
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ha@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:163:5492
+ka@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2146
+x/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2161
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:1599
+y@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2636
+k@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:74:206
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ha@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:163:5492
+ka@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2146
+x/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2161
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:1599
+y@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2636
+k@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:74:206
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ha@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:163:5492
+ka@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2146
+x/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2161
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:1599
+y@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2636
+k@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:74:206
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ha@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:163:5492
+ka@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2146
+x/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2161
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:1599
+y@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2636
+k@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:74:206
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+m@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:102:967
+ha@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:163:5492
+ka@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2146
+x/<@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2161
+ca@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:47:1450
+x@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:1599
+y@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:167:2636
+k@http://connect.facebook.net/pl_PL/sdk.js#version=v2.3&xfbml=1&appId=534760363234899:74:206
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+eb@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:5792
+ig@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:59803
+jg@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:57854
+qg/<@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:62131
+Oc@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:15510
+Xc@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:18035
+qg@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:62110
+rg@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:61642
+wg@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:64874
+xg@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:65150
+Ag@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:65802
+Bg/<@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:65394
+Oc@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:15510
+Xc@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:18035
+Bg@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:65373
+Cg@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:67392
+Oc@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:15355
+Xc@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:18035
+Dg@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:67102
+@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:67640
+@http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js:1:2
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+fh@http://pagead2.googlesyndication.com/pagead/osd.js:126:117
+h.getNewBlocks@https://securepubads.g.doubleclick.net/gpt/pubads_impl_153.js:1:106614
+ce.prototype.getNewBlocks@http://pagead2.googlesyndication.com/pagead/osd.js:50:991
+dh@http://pagead2.googlesyndication.com/pagead/osd.js:127:166
+bh@http://pagead2.googlesyndication.com/pagead/osd.js:124:859
+O/</<@http://pagead2.googlesyndication.com/pagead/osd.js:36:649
+pd@http://pagead2.googlesyndication.com/pagead/osd.js:36:363
+O/<@http://pagead2.googlesyndication.com/pagead/osd.js:36:624
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+@chrome://followonsearch/content/followonsearch-fs.js?q=0.5732127442873161:274:1
+_createPreloadBrowser@chrome://browser/content/tabbrowser.xml:2070:13
+_handleNewTab@chrome://browser/content/tabbrowser.xml:6816:11
+onxbltransitionend@chrome://browser/content/tabbrowser.xml:6862:13
+
+(/usr/lib/firefox/firefox:9648): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:9648): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:9648): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:9648): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+notify@resource://gre/modules/RemoteAddonsParent.jsm:362:9
+receiveMessage@resource://gre/modules/RemoteAddonsParent.jsm:352:9
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+notify@resource://gre/modules/RemoteAddonsParent.jsm:362:9
+receiveMessage@resource://gre/modules/RemoteAddonsParent.jsm:352:9
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+onStateChange@chrome://browser/content/browser.js:5164:9
+callListeners@chrome://browser/content/tabbrowser.xml:492:24
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:513:13
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:595:22
+onStateChange@chrome://browser/content/tabbrowser.xml:784:15
+s_9d@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:136:49
+s_ne@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:139:265
+@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:1012:247
+s_Dba@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:74:397
+s_Bba@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:75:415
+s_zba/b<@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:72:219
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+@chrome://followonsearch/content/followonsearch-fs.js?q=0.5732127442873161:274:1
+_createPreloadBrowser@chrome://browser/content/tabbrowser.xml:2070:13
+_handleNewTab@chrome://browser/content/tabbrowser.xml:6816:11
+onxbltransitionend@chrome://browser/content/tabbrowser.xml:6862:13
+
+(/usr/lib/firefox/firefox:9684): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:9684): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:9684): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:9684): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+notify@resource://gre/modules/RemoteAddonsParent.jsm:362:9
+receiveMessage@resource://gre/modules/RemoteAddonsParent.jsm:352:9
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+notify@resource://gre/modules/RemoteAddonsParent.jsm:362:9
+receiveMessage@resource://gre/modules/RemoteAddonsParent.jsm:352:9
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+notify@resource://gre/modules/RemoteAddonsParent.jsm:362:9
+receiveMessage@resource://gre/modules/RemoteAddonsParent.jsm:352:9
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+notify@resource://gre/modules/RemoteAddonsParent.jsm:362:9
+receiveMessage@resource://gre/modules/RemoteAddonsParent.jsm:352:9
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+notify@resource://gre/modules/RemoteAddonsParent.jsm:362:9
+receiveMessage@resource://gre/modules/RemoteAddonsParent.jsm:352:9
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+notify@resource://gre/modules/RemoteAddonsParent.jsm:362:9
+receiveMessage@resource://gre/modules/RemoteAddonsParent.jsm:352:9
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+onStateChange@chrome://browser/content/browser.js:5164:9
+callListeners@chrome://browser/content/tabbrowser.xml:492:24
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:513:13
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:595:22
+onStateChange@chrome://browser/content/tabbrowser.xml:784:15
+s_9d@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:136:49
+s_ne@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:139:265
+@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:1012:247
+s_Dba@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:74:397
+s_Bba@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:75:415
+s_zba/b<@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:72:219
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+onStateChange@chrome://browser/content/browser.js:5164:9
+callListeners@chrome://browser/content/tabbrowser.xml:492:24
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:513:13
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:595:22
+onStateChange@chrome://browser/content/tabbrowser.xml:784:15
+s_9d@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:136:49
+s_ne@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:139:265
+@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:1012:247
+s_Dba@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:74:397
+s_Bba@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:75:415
+s_zba/b<@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:72:219
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+onStateChange@chrome://browser/content/browser.js:5164:9
+callListeners@chrome://browser/content/tabbrowser.xml:492:24
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:513:13
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:595:22
+onStateChange@chrome://browser/content/tabbrowser.xml:784:15
+s_9d@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:136:49
+s_ne@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:139:265
+@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:1012:247
+s_Dba@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:74:397
+s_Bba@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:75:415
+s_zba/b<@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:72:219
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+onStateChange@chrome://browser/content/browser.js:5164:9
+callListeners@chrome://browser/content/tabbrowser.xml:492:24
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:513:13
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:595:22
+onStateChange@chrome://browser/content/tabbrowser.xml:784:15
+s_9d@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:136:49
+s_ne@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:139:265
+@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:1012:247
+s_Dba@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:74:397
+s_Bba@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:75:415
+s_zba/b<@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:72:219
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+onStateChange@chrome://browser/content/browser.js:5164:9
+callListeners@chrome://browser/content/tabbrowser.xml:492:24
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:513:13
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:595:22
+onStateChange@chrome://browser/content/tabbrowser.xml:784:15
+s_9d@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:136:49
+s_ne@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:139:265
+@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:1012:247
+s_Dba@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:74:397
+s_Bba@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:75:415
+s_zba/b<@https://www.google.pl/xjs/_/js/k=xjs.s.pl.j_jD8ht8jCA.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLK8YIDIP8TQiFxC2GBLGByAAE/rt=j/d=1/t=zcms/rs=ACT90oE0GKTda6Fb1SijESzmdelCqpeeSQ:72:219
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+observe@resource://unity/observer.js:77:24
